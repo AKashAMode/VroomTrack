@@ -54,7 +54,6 @@ cd car-management-system
 
 ### **How to Use This File**
 - Replace placeholder values like `https://github.com/your-username/car-management-system.git` and `<your-railway-domain>` with actual details.
-- Add additional instructions or notes specific to your project as needed.
 
-Let me know if you need help tailoring this further! 🚀
+
 
