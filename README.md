@@ -2,7 +2,6 @@
 
 A Spring Boot-based web application designed to manage cars, integrated with a MySQL database. This project demonstrates CRUD operations, database connectivity, and efficient API management.
 
----
 
 ## Table of Contents
 
@@ -23,7 +22,7 @@ A Spring Boot-based web application designed to manage cars, integrated with a M
 - RESTful APIs for seamless communication.
 - Hibernate-based JPA for database management.
 
----
+
 
 ## Technologies Used
 
@@ -37,7 +36,7 @@ A Spring Boot-based web application designed to manage cars, integrated with a M
 
 ## Getting Started
 
-Follow these instructions to set up and run the project on your local machine.
+You can follow these instructions to set up and run the project on your local machine.
 
 ### Prerequisites
 
